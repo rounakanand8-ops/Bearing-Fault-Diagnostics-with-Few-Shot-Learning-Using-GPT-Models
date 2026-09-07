@@ -136,7 +136,7 @@ python gpt2_kway_nshot.py --split cross_speed --test_rpm 800 --n_shot 10
 
 ## Dataset
 
-Jiangnan University (JNU) bearing dataset (see `data/raw/README.md`):
+Jiangnan University (JNU) bearing dataset (https://github.com/ClarkGableWang/JNU-Bearing-Dataset):
 vibration signals from a PCB MA352A60 accelerometer, 50 kHz sampling rate,
 at 600/800/1000 rpm, with induced outer race, inner race, and rolling
 element (ball) faults plus a normal baseline — 12 raw files, 480
